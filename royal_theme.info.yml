@@ -1,0 +1,21 @@
+name: Royal Theme 
+type: theme
+description: 'Custom Theme for Royal Color.'
+package: Other
+core_version_requirement: ^10 || ^11
+base theme: false
+
+libraries:
+  - royal_theme/global-styling
+
+regions:
+  social_links: Social Links
+  branding: Branding
+  navigation: Main navigation
+  banner: Banner
+  content: Content
+  testimonial: Testimonial
+  footer_first: Footer First
+  footer_second: Footer Second
+  footer_third: Footer Third
+  footer_bottom: Footer Bottom
